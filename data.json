@@ -1,119 +1,93 @@
 {
   "wallpapers": [
     {
-      "id": "aurora-drift",
-      "title": "Aurora Drift",
-      "category": "Abstract",
-      "price": 29,
-      "paymentLink": "https://rzp.io/rzp/jlofNoq"
+      "id": "deep-forest",
+      "title": "Deep Forest",
+      "category": "Nature",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/fG6866D"
     },
     {
       "id": "ember-fields",
       "title": "Ember Fields",
       "category": "Nature",
       "price": 19,
-      "paymentLink": "https://rzp.io/rzp/c52VArN"
-    },
-    {
-      "id": "violet-hour",
-      "title": "Violet Hour",
-      "category": "Abstract",
-      "price": 29,
-      "paymentLink": "https://rzp.io/rzp/ScPBxtqf"
-    },
-    {
-      "id": "deep-forest",
-      "title": "Deep Forest",
-      "category": "Nature",
-      "price": 19,
-      "paymentLink": "https://rzp.io/rzp/4BD2z1sW"
+      "paymentLink": "https://rzp.io/rzp/RFtHYv3"
     },
     {
       "id": "coral-reef",
       "title": "Coral Reef",
       "category": "Nature",
       "price": 19,
-      "paymentLink": "https://rzp.io/rzp/fjTc8yyo"
-    },
-    {
-      "id": "midnight-neon",
-      "title": "Midnight Neon",
-      "category": "Abstract",
-      "price": 49,
-      "paymentLink": "https://rzp.io/rzp/y9imDt6t"
+      "paymentLink": "https://rzp.io/rzp/gorRUIY6"
     },
     {
       "id": "desert-glow",
       "title": "Desert Glow",
       "category": "Nature",
       "price": 19,
-      "paymentLink": "https://rzp.io/rzp/p4dvNYAl"
+      "paymentLink": "https://rzp.io/rzp/pHvOKK5"
     },
     {
       "id": "glacier",
       "title": "Glacier",
       "category": "Nature",
       "price": 19,
-      "paymentLink": "https://rzp.io/rzp/7xyjOBnL"
+      "paymentLink": "https://rzp.io/rzp/xBzzy3a"
+    },
+    {
+      "id": "aurora-drift",
+      "title": "Aurora Drift",
+      "category": "Abstract",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/TUaJ40R"
+    },
+    {
+      "id": "violet-hour",
+      "title": "Violet Hour",
+      "category": "Nature",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/X0R0HjyC"
+    },
+    {
+      "id": "midnight-neon",
+      "title": "Midnight Neon",
+      "category": "Abstract",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/VwX3UhPf"
     },
     {
       "id": "sakura-dream",
       "title": "Sakura Dream",
       "category": "Anime",
-      "price": 49,
-      "paymentLink": "https://rzp.io/rzp/VmWNXZ1"
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/b5aBJNyt"
     }
   ],
   "bundles": [
     {
-      "id": "aurora-collection",
-      "title": "Aurora Collection",
-      "description": "6 abstract wallpapers with a shared cool-toned palette",
-      "items": [
-        "aurora-drift",
-        "violet-hour",
-        "midnight-neon",
-        "glacier",
-        "coral-reef",
-        "sakura-dream"
-      ],
-      "price": 149,
-      "cover": "aurora-collection-cover",
-      "paymentLink": "https://rzp.io/rzp/xkcXkiao"
-    },
-    {
       "id": "earth-tones",
       "title": "Earth Tones",
       "description": "5 warm nature wallpapers for a calmer home screen",
-      "items": [
-        "ember-fields",
-        "deep-forest",
-        "desert-glow",
-        "coral-reef",
-        "glacier"
-      ],
       "price": 129,
-      "cover": "earth-tones-cover",
-      "paymentLink": "https://rzp.io/rzp/gjZBMM2j"
+      "items": ["deep-forest", "ember-fields", "coral-reef", "desert-glow", "glacier"],
+      "paymentLink": "https://rzp.io/rzp/OZHslww"
+    },
+    {
+      "id": "aurora-collection",
+      "title": "Aurora Collection",
+      "description": "6 abstract wallpapers with a shared cool-toned palette",
+      "price": 149,
+      "items": ["aurora-drift", "violet-hour", "midnight-neon"],
+      "paymentLink": "https://rzp.io/rzp/MdqzFHwi"
     },
     {
       "id": "full-wall",
       "title": "The Full Wall",
       "description": "All 9 wallpapers in the current collection",
-      "items": [
-        "aurora-drift",
-        "ember-fields",
-        "violet-hour",
-        "deep-forest",
-        "coral-reef",
-        "midnight-neon",
-        "desert-glow",
-        "glacier",
-        "sakura-dream"
-      ],
       "price": 199,
-      "cover": "full-wall-cover",
-      "paymentLink": "https://rzp.io/rzp/PFBPD6E4"
+      "items": ["deep-forest", "ember-fields", "coral-reef", "desert-glow", "glacier", "aurora-drift", "violet-hour", "midnight-neon", "sakura-dream"],
+      "paymentLink": "https://rzp.io/rzp/8hnSQYI"
     }
   ]
 }
