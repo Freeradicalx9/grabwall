@@ -1,0 +1,119 @@
+{
+  "wallpapers": [
+    {
+      "id": "aurora-drift",
+      "title": "Aurora Drift",
+      "category": "Abstract",
+      "price": 29,
+      "paymentLink": "https://rzp.io/rzp/jlofNoq"
+    },
+    {
+      "id": "ember-fields",
+      "title": "Ember Fields",
+      "category": "Nature",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/c52VArN"
+    },
+    {
+      "id": "violet-hour",
+      "title": "Violet Hour",
+      "category": "Abstract",
+      "price": 29,
+      "paymentLink": "https://rzp.io/rzp/ScPBxtqf"
+    },
+    {
+      "id": "deep-forest",
+      "title": "Deep Forest",
+      "category": "Nature",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/4BD2z1sW"
+    },
+    {
+      "id": "coral-reef",
+      "title": "Coral Reef",
+      "category": "Nature",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/fjTc8yyo"
+    },
+    {
+      "id": "midnight-neon",
+      "title": "Midnight Neon",
+      "category": "Abstract",
+      "price": 49,
+      "paymentLink": "https://rzp.io/rzp/y9imDt6t"
+    },
+    {
+      "id": "desert-glow",
+      "title": "Desert Glow",
+      "category": "Nature",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/p4dvNYAl"
+    },
+    {
+      "id": "glacier",
+      "title": "Glacier",
+      "category": "Nature",
+      "price": 19,
+      "paymentLink": "https://rzp.io/rzp/7xyjOBnL"
+    },
+    {
+      "id": "sakura-dream",
+      "title": "Sakura Dream",
+      "category": "Anime",
+      "price": 49,
+      "paymentLink": "https://rzp.io/rzp/VmWNXZ1"
+    }
+  ],
+  "bundles": [
+    {
+      "id": "aurora-collection",
+      "title": "Aurora Collection",
+      "description": "6 abstract wallpapers with a shared cool-toned palette",
+      "items": [
+        "aurora-drift",
+        "violet-hour",
+        "midnight-neon",
+        "glacier",
+        "coral-reef",
+        "sakura-dream"
+      ],
+      "price": 149,
+      "cover": "aurora-collection-cover",
+      "paymentLink": "https://rzp.io/rzp/xkcXkiao"
+    },
+    {
+      "id": "earth-tones",
+      "title": "Earth Tones",
+      "description": "5 warm nature wallpapers for a calmer home screen",
+      "items": [
+        "ember-fields",
+        "deep-forest",
+        "desert-glow",
+        "coral-reef",
+        "glacier"
+      ],
+      "price": 129,
+      "cover": "earth-tones-cover",
+      "paymentLink": "https://rzp.io/rzp/gjZBMM2j"
+    },
+    {
+      "id": "full-wall",
+      "title": "The Full Wall",
+      "description": "All 9 wallpapers in the current collection",
+      "items": [
+        "aurora-drift",
+        "ember-fields",
+        "violet-hour",
+        "deep-forest",
+        "coral-reef",
+        "midnight-neon",
+        "desert-glow",
+        "glacier",
+        "sakura-dream"
+      ],
+      "price": 199,
+      "cover": "full-wall-cover",
+      "paymentLink": "https://rzp.io/rzp/PFBPD6E4"
+    }
+  ]
+}
