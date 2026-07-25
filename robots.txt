@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freeradicalx9.github.io/grabwall/sitemap.xml
